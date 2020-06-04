@@ -1,0 +1,10 @@
+Introduction / Business Problem
+
+Bangkok, Thailand, has always been a city of wonders where anything could be found. There is everything for everyone: restaurants, street food, clubs, bars, temples, museums, malls, parks, rooftops, pools, sun...
+Opening a restaurant as an expat could be a good idea: other expats of the same nation would come to eat their native food, and thai locals would come to try our exotic food. However, Bangkok is a huge city, and each district has its own demographics and specialties.
+The aim of this data science project is to help locate the best district to open our restaurant.
+
+Data
+
+As Bangkok is a very metropolitan city with a very diversified population and choice of restaurants, we can make the hypothesis that the nature of the demographics in the district doesn't matter.
+The Foursquare location data is therefore enough for this study: we will be able to locate which places are the most suited for opening a restaurant based on their activity there: do they already have many restaurants at that location? Is it rather a coffee/bar street, a restaurant one, or a club one? etc...
